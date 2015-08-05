@@ -1,0 +1,3 @@
+--out htdocs/js/client.js
+--target ES5
+elite/client/Application.ts

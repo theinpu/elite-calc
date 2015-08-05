@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="en">
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Elite Trade Book</title>
+    <script type="text/javascript" src="js/jquery.min.js"></script>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap-theme.min.css">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+
+    <link rel="stylesheet" href="css/style.css"/>
+    <script type="text/javascript" src="js/underscore-min.js"></script>
+    <script type="text/javascript" src="js/backbone-min.js"></script>
+    <script type="text/javascript" src="js/backbone.localStorage.js"></script>
+    <script type="text/javascript" src="js/app.js"></script>
+    <script type="text/javascript">
+        var app;
+        $(function () {
+            app = new Application();
+        });
+    </script>
+</head>
+<body>
+<div id="page">
+    <div id="content"></div>
+    <div id="routesHolder">
+        <div class="page-header">
+            <h4>Trade routes</h4>
+        </div>
+        <h4>Info</h4>
+
+        <form id="playerInfo" class="form-inline">
+            <div class="form-group">
+                <label for="cargoSize">Cargo</label>
+                <input type="text" id="cargoSize" value="" class="form-control"/>
+            </div>
+            <br/>
+            <div class="form-group">
+                <label for="money">Money</label>
+                <input id="money" class="form-control" value="" type="text"/>
+            </div>
+        </form>
+        <h4>stations <small>
+            <a href="#" class="resetTrade"><span class="glyphicon glyphicon-remove-circle"></span></a>
+        </small></h4>
+
+        <div id="stationList">
+        </div>
+        <h4>routes</h4>
+
+        <div id="routeList">
+        </div>
+
+        <h4>Best route</h4>
+        <div id="bestRoute" class="form-inline">
+            <label for="currentPlace">From</label>
+            <select id="currentPlace" class="form-control"></select>
+            <div class="result"></div>
+        </div>
+    </div>
+</div>
+<script type="text/template" id="default_page">
+
+    <div class="container">
+        <div class="page-header col-md-8">
+            <h2>Elite Trading Book</h2>
+        </div>
+    </div>
+    <div class="container">
+        <a href="#addNew" class="btn btn-primary" role="button">
+            <span class="glyphicon glyphicon-plus" aria-hidden="true"></span> add station
+        </a>
+        <a href="#addResource" class="btn btn-primary" role="button">
+            <span class="glyphicon glyphicon-grain" aria-hidden="true"></span> add resource
+        </a>
+    </div>
+    <div class="container">
+        <div class="page-header col-md-8">
+            <h2>Stations</h2>
+        </div>
+        <ul id="stations" class="list-group col-md-6">
+        </ul>
+    </div>
+    <div class="container">
+        <div class="page-header col-md-8">
+            <h2>Resources</h2>
+        </div>
+        <div class="clearfix"></div>
+        <ul id="resources" class="list-group col-md-4">
+        </ul>
+        <div class="clearfix"></div>
+    </div>
+</script>
+<script type="text/template" id="addNew_page">
+    <div class="container">
+        <div class="page-header col-md-8">
+            <h2>
+                <div class="col-md-1">
+                    <a href="#" class="go-back" title="back"><i class="glyphicon glyphicon-chevron-left"></i></a>
+                </div>
+                <div class="col-md-8">Add Station</div>
+            </h2>
+        </div>
+    </div>
+    <div class="container">
+        <form id="addNew_form" class="col-md-4">
+            <div class="form-group">
+                <label for="st-system">System</label>
+                <input type="text" id="st-system" value="<%= system %>" class="form-control"/>
+            </div>
+            <div class="form-group">
+                <label for="st-name">Name</label>
+                <input type="text" id="st-name" value="<%= station %>" class="form-control"/>
+            </div>
+            <div class="col-md-8"></div>
+            <button type="submit" class="btn btn-primary col-md-4"> add</button>
+        </form>
+    </div>
+</script>
+<script type="text/template" id="station_item">
+    <a href="#addToRoute" title="add to route" class="addToRoute"><span class="glyphicon glyphicon-plus"></span></a>
+    <a href="#overview/<%= id %>" class="overview"><%= system %> - <%= station %></a><br/>
+    <small>
+        <strong class="glyphicon glyphicon-star-empty"></strong> <strong><%= route.resource %></strong>:
+        <%= route.dest %> (<%= route.cargo %>: <strong><%= route.profit %></strong>)
+    </small>
+    <span class="badge"><%= count %></span>
+</script>
+<script type="text/template" id="addNewResource_page">
+    <div class="container">
+        <div class="page-header col-md-8">
+            <h2>
+                <div class="col-md-1">
+                    <a href="#" class="go-back" title="back"><i class="glyphicon glyphicon-chevron-left"></i></a>
+                </div>
+                <div class="col-md-8">Add Resource</div>
+            </h2>
+        </div>
+    </div>
+    <div class="container">
+        <form id="addNewRes_form" class="col-md-4">
+            <div class="form-group">
+                <label for="res-name">Name</label>
+                <input type="text" id="res-name" value="<%= name %>" class="form-control"/>
+            </div>
+            <div class="col-md-8"></div>
+            <button type="submit" class="btn btn-primary col-md-4"> add</button>
+        </form>
+    </div>
+</script>
+<script type="text/template" id="resource_item">
+    <div class="container">
+        <a href="#" class="edit col-md-3"><%= name %></a>
+        <a href="#" class="delete col-md-1"><i class="glyphicon glyphicon-remove"></i></a>
+    </div>
+</script>
+
+<script type="text/template" id="station_overview">
+    <div class="container">
+        <div class="page-header col-md-8">
+            <h2>
+                <div class="col-md-1">
+                    <a href="#" class="goBack" title="back"><i class="glyphicon glyphicon-chevron-left"></i></a>
+                </div>
+                <div class="col-md-8">Station
+                    <small><%= system %> - <%= station %> <a href="#" class="deleteStation" title="delete"><i
+                            class="glyphicon glyphicon-remove"></i></a></small>
+                </div>
+            </h2>
+        </div>
+    </div>
+    <div class="container">
+        <a href="#addResource" class="btn btn-primary addItem" role="button">
+            <span class="glyphicon glyphicon-plus" aria-hidden="true"></span> add item</a>
+
+        <div class="clearfix"></div>
+        <div id="resForm" class="well" style="display: none">
+            <form id="addResourceItem_form" class="form-inline">
+                <div class="form-group">
+                    <button class="btn btn-default pull-right" type="reset">
+                        <span class="glyphicon glyphicon-remove" aria-hidden="true"></span>
+                    </button>
+                    <button class="btn btn-default pull-right" type="submit">
+                        <span class="glyphicon glyphicon-ok" aria-hidden="true"></span>
+                    </button>
+                </div>
+                <div class="form-group">
+                    <label for="resourceType">Resource</label>
+                    <select id="resourceType" class="form-control"></select>
+                </div>
+                <div class="form-group">
+                    <label for="resBuy">Buy</label>
+                    <input class="form-control" type="text" id="resBuy"/>
+                </div>
+                <div class="form-group">
+                    <label for="resSell">Sell</label>
+                    <input class="form-control" type="text" id="resSell"/>
+                </div>
+            </form>
+        </div>
+    </div>
+    <div class="container">
+        <div class="page-header col-md-8">
+            <h3>Items</h3>
+        </div>
+    </div>
+    <div class="container">
+        <div class="col-md-8">
+            <table id="items" class="table table-striped panel-body">
+                <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Buy</th>
+                    <th>Sell</th>
+                    <th></th>
+                </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+        </div>
+    </div></script>
+<script type="text/template" id="trade_item">
+    <td><span><%= name %></span></td>
+    <td><span><input type="text" value="<%= buy %>" class="resBuy form-control"/></span></td>
+    <td><span><input type="text" value="<%= sell %>" class="resSell form-control"/></span></td>
+    <td>
+        <a href="#" class="delete btn-link">
+            <span class="glyphicon glyphicon-remove" aria-hidden="true"></span>
+        </a>
+        <a href="#" class="routes btn-link">
+            <span class="glyphicon glyphicon-signal" aria-hidden="true"></span>
+        </a>
+    </td>
+</script>
+</body>
+</html>

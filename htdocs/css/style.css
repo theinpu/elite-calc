@@ -1,0 +1,30 @@
+#items td {
+    vertical-align: middle;
+}
+
+#routesHolder {
+    position: absolute;
+    right: 0;
+    top: 0;
+    min-width: 400px;
+    min-height: 50px;
+    padding: 0 10px 10px 10px;
+    background-color: #fff;
+    border-left: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+}
+
+#content {
+    padding: 20px 0;
+}
+
+.inline-list-item {
+    display: inline-block;
+    width: 48%;
+    min-width: 500px;
+    vertical-align: top;
+}
+
+.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th {
+    padding: 4px;
+}

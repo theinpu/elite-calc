@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Consumer Tech",
+    "id": "283f8c09-acf0-15a6-e0e8-19a41a5868de"
+  },
+  {
+    "name": "Animal Meat",
+    "id": "f99d3260-29ec-9944-7ec0-20aaa7eb71f6"
+  },
+  {
+    "name": "Coffeet",
+    "id": "69e6842e-7ce6-b331-876a-5cd81a11f2d9"
+  },
+  {
+    "name": "Tea",
+    "id": "957c2865-2286-84b1-738d-5917b1ac786a"
+  },
+  {
+    "name": "Superconductors",
+    "id": "006d064d-c334-1a13-9bde-b49020c10a9b"
+  },
+  {
+    "name": "Performance Enhancers",
+    "id": "183249c3-0a72-bd47-c161-d1c0d5b3fe9e"
+  },
+  {
+    "name": "Progenitor Cells",
+    "id": "18ec5334-ff33-b0cd-4c4b-7ade9461697b"
+  },
+  {
+    "name": "Beryllium",
+    "id": "bf47d4b1-fead-f6d9-ad4e-0f6d9e8438f6"
+  },
+  {
+    "name": "Gallium",
+    "id": "e2b0c540-7fdd-953a-1e19-edccfdefb81d"
+  },
+  {
+    "name": "Gold",
+    "id": "703b5da2-a67c-8b0a-a819-36fe436315ab"
+  },
+  {
+    "name": "Indium",
+    "id": "240497ae-caac-47a2-4b5e-2a19017a0a01"
+  },
+  {
+    "name": "Palladium",
+    "id": "121741c7-b27c-ab60-145a-89d2a9d55d70"
+  },
+  {
+    "name": "Silver",
+    "id": "0002ceab-8f7a-3b47-09fb-fc29925c50e7"
+  },
+  {
+    "name": "Tantalum",
+    "id": "6064d921-6cb2-9c38-8df7-b51ca1166d47"
+  },
+  {
+    "name": "Uranium",
+    "id": "dfbb5c3d-8dc3-552a-3b0c-be96f8b2bcea"
+  },
+  {
+    "name": "Advanced Catalysers",
+    "id": "aa41023a-ffc3-3866-6631-5e92aad9d942"
+  },
+  {
+    "name": "Auto Fabricators",
+    "id": "1aaf74d3-ec01-ce91-a93b-122e925396aa"
+  },
+  {
+    "name": "Land Enrichment Systems",
+    "id": "66cd744c-dcf0-af1e-afac-b4154f5ae637"
+  },
+  {
+    "name": "Resonating Separators",
+    "id": "759dba89-bd39-17cf-0901-2afb1c542feb"
+  },
+  {
+    "name": "NonLethal Weapon",
+    "id": "83e577f4-6721-772e-e623-95d351fabea4"
+  },
+  {
+    "name": "Personal Weapon",
+    "id": "8bceabe6-e74a-cd16-6315-8972563e2874"
+  },
+  {
+    "name": "Reactive Armour",
+    "id": "47d2739a-dbee-b411-41cf-127ceb633b9f"
+  },
+  {
+    "name": "Crop Harvesters",
+    "id": "b7762415-717f-887f-7fcb-90c7c2aa48e0"
+  },
+  {
+    "name": "Marine Equipment",
+    "id": "2e33e3b2-8f31-2bb2-99e1-b0b3093f63af"
+  }
+]

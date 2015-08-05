@@ -1,0 +1,52 @@
+[
+  {
+    "system": "Mabe",
+    "station": "Cummings Port",
+    "id": "0133b527-8116-ad4a-d54f-719e4093106c"
+  },
+  {
+    "system": "LHS 3067",
+    "station": "Glenn Station",
+    "id": "adb96e99-8b89-894b-a69d-ab3be330edbb"
+  },
+  {
+    "system": "Dulla",
+    "station": "Lee Colony",
+    "id": "347317bc-a936-7fbb-32e7-2c6605d5cbbd"
+  },
+  {
+    "system": "Kaushairup",
+    "station": "Agassiz Station",
+    "id": "876e8a81-eeb0-d5ba-f396-e940fc839275"
+  },
+  {
+    "system": "Trumanuchu",
+    "station": "Vian Enterprise",
+    "id": "959c0a81-f297-89c5-5363-0c71557f79fe"
+  },
+  {
+    "system": "Oshepra",
+    "station": "Kozeyev Ring",
+    "id": "af44fb46-4c4b-8f5b-9017-5b52d0e0195f"
+  },
+  {
+    "system": "Scotaya",
+    "station": "Laplace Enterprise",
+    "id": "18db9381-ae44-a1cc-7d99-fa41707b3bb3"
+  },
+  {
+    "system": "LPM 561",
+    "station": "Hermaszewski Settlement",
+    "id": "f8e61731-a188-9ed1-903e-1a55b635d004"
+  },
+  {
+    "system": "Wolf 561",
+    "station": "Garan Terminal",
+    "id": "f41e232d-ae7f-be3f-2913-0c81b0bb15ca"
+  },
+  {
+    "system": "HR 5816",
+    "station": "Foreman Survey",
+    "id": "4e777941-f584-b813-8db5-946ae8884344"
+  }
+]

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Elite Trade Book</title>
+    <script type="text/javascript" src="js/jquery.min.js"></script>
+
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/bootstrap-theme.min.css">
+    <script src="/js/bootstrap.min.js"></script>
+
+    <link rel="stylesheet" href="/css/style.css"/>
+    <script type="text/javascript" src="/js/underscore-min.js"></script>
+    <script type="text/javascript" src="/js/backbone-min.js"></script>
+    <script type="text/javascript" src="/js/backbone.localStorage.js"></script>
+
+    {% include('client/rares.twig') %}
+
+    <script type="text/javascript" src="/js/client.js"></script>
+    <script type="text/javascript">
+        var app;
+        $(function () {
+            app = new Application();
+        });
+    </script>
+</head>
+<body>
+<div class="container">
+    <a href="#"><h2 class="col-md-3">Elite Trade Book</h2></a>
+
+    <div class="userInfoWidget col-md-9" style="margin-top: 20px">
+    </div>
+    <div class="clearfix"></div>
+    <div class="container">
+        <a href="#edit" class="btn btn-default" role="button">add station</a>
+    </div>
+    <div id="content">
+
+    </div>
+</div>
+
+{% include('client/all.twig') %}
+
+</body>
+</html>

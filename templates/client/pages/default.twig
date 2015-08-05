@@ -1,0 +1,27 @@
+<script type="text/html" id="defaultPage">
+    <div class="page-header">
+        <div role="tabpanel">
+            <h3>
+                <ul class="nav nav-tabs" role="tablist">
+                    <li role="presentation" class="active">
+                        <a href="#allStationsTab" aria-controls="allStationsTab" role="tab" data-toggle="tab">All Stations</a>
+                    </li>
+                    <li role="presentation">
+                        <a href="#myListTab" aria-controls="myListTab" role="tab" data-toggle="tab">My List</a>
+                    </li>
+                </ul>
+            </h3>
+        </div>
+    </div>
+    <div class="container">
+        <div class="tab-content">
+            <div role="tabpanel" class="tab-pane active" id="allStationsTab">
+                <ul class="list-group allStations"></ul>
+            </div>
+            <div role="tabpanel" class="tab-pane active" id="myListTab">
+                <ul class="list-group myStations"></ul>
+            </div>
+        </div>
+    </div>
+    <div class="container" id="additionalContent"></div>
+</script>

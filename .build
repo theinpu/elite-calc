@@ -1,0 +1,3 @@
+--out htdocs/js/app.js
+--target ES5
+src/Application.ts

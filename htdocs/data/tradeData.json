@@ -1,0 +1,1338 @@
+{
+  "Cummings Port": [
+    {
+      "station_id": "0133b527-8116-ad4a-d54f-719e4093106c",
+      "resource": {
+        "name": "Consumer Tech",
+        "id": "283f8c09-acf0-15a6-e0e8-19a41a5868de"
+      },
+      "buy": 6556,
+      "sell": 0,
+      "id": "1ad8c746-cb76-e786-578d-6c484f06b65e"
+    },
+    {
+      "station_id": "0133b527-8116-ad4a-d54f-719e4093106c",
+      "resource": {
+        "name": "Animal Meat",
+        "id": "f99d3260-29ec-9944-7ec0-20aaa7eb71f6"
+      },
+      "buy": 0,
+      "sell": 1292,
+      "id": "26219a5a-f929-7014-e524-6c4dd620df8b"
+    },
+    {
+      "station_id": "0133b527-8116-ad4a-d54f-719e4093106c",
+      "resource": {
+        "name": "Coffeet",
+        "id": "69e6842e-7ce6-b331-876a-5cd81a11f2d9"
+      },
+      "buy": 0,
+      "sell": 1292,
+      "id": "4aa29b1c-6290-e48c-9745-1c860f323b55"
+    },
+    {
+      "station_id": "0133b527-8116-ad4a-d54f-719e4093106c",
+      "resource": {
+        "name": "Tea",
+        "id": "957c2865-2286-84b1-738d-5917b1ac786a"
+      },
+      "buy": 0,
+      "sell": 1466,
+      "id": "c0b415aa-0010-6cd6-47f8-da813d3a6709"
+    },
+    {
+      "station_id": "0133b527-8116-ad4a-d54f-719e4093106c",
+      "resource": {
+        "name": "Superconductors",
+        "id": "006d064d-c334-1a13-9bde-b49020c10a9b"
+      },
+      "buy": 0,
+      "sell": 6985,
+      "id": "ccb6d68c-b079-2504-3045-a5d58ccdbbb5"
+    },
+    {
+      "station_id": "0133b527-8116-ad4a-d54f-719e4093106c",
+      "resource": {
+        "name": "Performance Enhancers",
+        "id": "183249c3-0a72-bd47-c161-d1c0d5b3fe9e"
+      },
+      "buy": 0,
+      "sell": 6965,
+      "id": "4c829f80-9e0c-5d09-9b59-2fd63cb18737"
+    },
+    {
+      "station_id": "0133b527-8116-ad4a-d54f-719e4093106c",
+      "resource": {
+        "name": "Progenitor Cells",
+        "id": "18ec5334-ff33-b0cd-4c4b-7ade9461697b"
+      },
+      "buy": 6880,
+      "sell": 0,
+      "id": "3454994b-6e9f-2c7e-b093-1d67fcd6300a"
+    },
+    {
+      "station_id": "0133b527-8116-ad4a-d54f-719e4093106c",
+      "resource": {
+        "name": "Beryllium",
+        "id": "bf47d4b1-fead-f6d9-ad4e-0f6d9e8438f6"
+      },
+      "buy": 0,
+      "sell": 8663,
+      "id": "a5db3351-606f-d7d0-b5e7-8ea1813943bb"
+    },
+    {
+      "station_id": "0133b527-8116-ad4a-d54f-719e4093106c",
+      "resource": {
+        "name": "Gallium",
+        "id": "e2b0c540-7fdd-953a-1e19-edccfdefb81d"
+      },
+      "buy": 0,
+      "sell": 5594,
+      "id": "5fe771e4-625a-fe01-857c-89294a57e11e"
+    },
+    {
+      "station_id": "0133b527-8116-ad4a-d54f-719e4093106c",
+      "resource": {
+        "name": "Gold",
+        "id": "703b5da2-a67c-8b0a-a819-36fe436315ab"
+      },
+      "buy": 0,
+      "sell": 10234,
+      "id": "03577751-6bb9-0051-6671-eaa4c6a6ffe1"
+    },
+    {
+      "station_id": "0133b527-8116-ad4a-d54f-719e4093106c",
+      "resource": {
+        "name": "Indium",
+        "id": "240497ae-caac-47a2-4b5e-2a19017a0a01"
+      },
+      "buy": 0,
+      "sell": 6103,
+      "id": "af54947d-2bf2-36d6-200b-d5d0c8305f72"
+    },
+    {
+      "station_id": "0133b527-8116-ad4a-d54f-719e4093106c",
+      "resource": {
+        "name": "Palladium",
+        "id": "121741c7-b27c-ab60-145a-89d2a9d55d70"
+      },
+      "buy": 0,
+      "sell": 14280,
+      "id": "660f0eb4-a56c-a073-90ec-f98caa06f73b"
+    },
+    {
+      "station_id": "0133b527-8116-ad4a-d54f-719e4093106c",
+      "resource": {
+        "name": "Silver",
+        "id": "0002ceab-8f7a-3b47-09fb-fc29925c50e7"
+      },
+      "buy": 0,
+      "sell": 5448,
+      "id": "8c2039c4-90c5-228a-bb20-3140dcfba366"
+    },
+    {
+      "station_id": "0133b527-8116-ad4a-d54f-719e4093106c",
+      "resource": {
+        "name": "Tantalum",
+        "id": "6064d921-6cb2-9c38-8df7-b51ca1166d47"
+      },
+      "buy": 0,
+      "sell": 4456,
+      "id": "569fdf46-2be8-8b1d-c08a-9d918f46df6d"
+    },
+    {
+      "station_id": "0133b527-8116-ad4a-d54f-719e4093106c",
+      "resource": {
+        "name": "Uranium",
+        "id": "dfbb5c3d-8dc3-552a-3b0c-be96f8b2bcea"
+      },
+      "buy": 0,
+      "sell": 3016,
+      "id": "f6408cf7-5fe1-df76-6314-4812fefe18f7"
+    },
+    {
+      "station_id": "0133b527-8116-ad4a-d54f-719e4093106c",
+      "resource": {
+        "name": "Advanced Catalysers",
+        "id": "aa41023a-ffc3-3866-6631-5e92aad9d942"
+      },
+      "buy": 2617,
+      "sell": 0,
+      "id": "8a49683c-57d3-8b57-c18b-520f91b116a1"
+    },
+    {
+      "station_id": "0133b527-8116-ad4a-d54f-719e4093106c",
+      "resource": {
+        "name": "Auto Fabricators",
+        "id": "1aaf74d3-ec01-ce91-a93b-122e925396aa"
+      },
+      "buy": 3276,
+      "sell": 0,
+      "id": "e743b703-b4e9-a477-66e7-8e819dbd9c6a"
+    },
+    {
+      "station_id": "0133b527-8116-ad4a-d54f-719e4093106c",
+      "resource": {
+        "name": "Land Enrichment Systems",
+        "id": "66cd744c-dcf0-af1e-afac-b4154f5ae637"
+      },
+      "buy": 4621,
+      "sell": 0,
+      "id": "5cf10096-5e06-0abd-6514-e98cbdf623f4"
+    },
+    {
+      "station_id": "0133b527-8116-ad4a-d54f-719e4093106c",
+      "resource": {
+        "name": "Resonating Separators",
+        "id": "759dba89-bd39-17cf-0901-2afb1c542feb"
+      },
+      "buy": 5475,
+      "sell": 0,
+      "id": "5f1b497e-224e-25bc-a838-a271e0d50636"
+    },
+    {
+      "station_id": "0133b527-8116-ad4a-d54f-719e4093106c",
+      "resource": {
+        "name": "NonLethal Weapon",
+        "id": "83e577f4-6721-772e-e623-95d351fabea4"
+      },
+      "buy": 1652,
+      "sell": 0,
+      "id": "ad0f7827-7a5e-6972-9ca6-d056340cde79"
+    },
+    {
+      "station_id": "0133b527-8116-ad4a-d54f-719e4093106c",
+      "resource": {
+        "name": "Personal Weapon",
+        "id": "8bceabe6-e74a-cd16-6315-8972563e2874"
+      },
+      "buy": 4058,
+      "sell": 0,
+      "id": "bc4fc126-9622-03bf-ff60-fc4716c35f32"
+    },
+    {
+      "station_id": "0133b527-8116-ad4a-d54f-719e4093106c",
+      "resource": {
+        "name": "Reactive Armour",
+        "id": "47d2739a-dbee-b411-41cf-127ceb633b9f"
+      },
+      "buy": 1894,
+      "sell": 0,
+      "id": "99bf6442-4aa8-1fc5-9930-fb5d9a1a9853"
+    }
+  ],
+  "Glenn Station": [
+    {
+      "station_id": "adb96e99-8b89-894b-a69d-ab3be330edbb",
+      "resource": {
+        "name": "Consumer Tech",
+        "id": "283f8c09-acf0-15a6-e0e8-19a41a5868de"
+      },
+      "buy": 0,
+      "sell": 7121,
+      "id": "06828c6c-e032-281d-6824-a2813614e14d"
+    },
+    {
+      "station_id": "adb96e99-8b89-894b-a69d-ab3be330edbb",
+      "resource": {
+        "name": "Animal Meat",
+        "id": "f99d3260-29ec-9944-7ec0-20aaa7eb71f6"
+      },
+      "buy": 0,
+      "sell": 1292,
+      "id": "ebf6e5af-cc1c-9b38-3a37-3856c8f83a0f"
+    },
+    {
+      "station_id": "adb96e99-8b89-894b-a69d-ab3be330edbb",
+      "resource": {
+        "name": "Coffeet",
+        "id": "69e6842e-7ce6-b331-876a-5cd81a11f2d9"
+      },
+      "buy": 0,
+      "sell": 1292,
+      "id": "6c577056-e6c2-5243-ea46-e4b50439a56a"
+    },
+    {
+      "station_id": "adb96e99-8b89-894b-a69d-ab3be330edbb",
+      "resource": {
+        "name": "Tea",
+        "id": "957c2865-2286-84b1-738d-5917b1ac786a"
+      },
+      "buy": 0,
+      "sell": 1466,
+      "id": "10b5d948-1188-f437-fe74-510701035795"
+    },
+    {
+      "station_id": "adb96e99-8b89-894b-a69d-ab3be330edbb",
+      "resource": {
+        "name": "Performance Enhancers",
+        "id": "183249c3-0a72-bd47-c161-d1c0d5b3fe9e"
+      },
+      "buy": 0,
+      "sell": 7446,
+      "id": "604d872e-c442-858c-e026-d91128f8a648"
+    },
+    {
+      "station_id": "adb96e99-8b89-894b-a69d-ab3be330edbb",
+      "resource": {
+        "name": "Progenitor Cells",
+        "id": "18ec5334-ff33-b0cd-4c4b-7ade9461697b"
+      },
+      "buy": 0,
+      "sell": 7434,
+      "id": "2e358685-37dc-4d8a-1caa-e261d3908627"
+    },
+    {
+      "station_id": "adb96e99-8b89-894b-a69d-ab3be330edbb",
+      "resource": {
+        "name": "Gold",
+        "id": "703b5da2-a67c-8b0a-a819-36fe436315ab"
+      },
+      "buy": 9019,
+      "sell": 0,
+      "id": "88f6429c-6cb6-8c87-69ea-a53597e92991"
+    },
+    {
+      "station_id": "adb96e99-8b89-894b-a69d-ab3be330edbb",
+      "resource": {
+        "name": "Palladium",
+        "id": "121741c7-b27c-ab60-145a-89d2a9d55d70"
+      },
+      "buy": 12908,
+      "sell": 0,
+      "id": "ac19d42d-a8ae-4923-2d72-c71bfc1aa5f2"
+    },
+    {
+      "station_id": "adb96e99-8b89-894b-a69d-ab3be330edbb",
+      "resource": {
+        "name": "Silver",
+        "id": "0002ceab-8f7a-3b47-09fb-fc29925c50e7"
+      },
+      "buy": 4362,
+      "sell": 0,
+      "id": "bf572f09-e082-10cc-3d6c-f1078be78991"
+    },
+    {
+      "station_id": "adb96e99-8b89-894b-a69d-ab3be330edbb",
+      "resource": {
+        "name": "NonLethal Weapon",
+        "id": "83e577f4-6721-772e-e623-95d351fabea4"
+      },
+      "buy": 0,
+      "sell": 2062,
+      "id": "e8cbaf12-65c7-55ac-f3e8-5541ab08c4e4"
+    },
+    {
+      "station_id": "adb96e99-8b89-894b-a69d-ab3be330edbb",
+      "resource": {
+        "name": "Reactive Armour",
+        "id": "47d2739a-dbee-b411-41cf-127ceb633b9f"
+      },
+      "buy": 0,
+      "sell": 2223,
+      "id": "2105c451-89e3-878c-ac17-612cf840463b"
+    }
+  ],
+  "Lee Colony": [
+    {
+      "station_id": "347317bc-a936-7fbb-32e7-2c6605d5cbbd",
+      "resource": {
+        "name": "Consumer Tech",
+        "id": "283f8c09-acf0-15a6-e0e8-19a41a5868de"
+      },
+      "buy": 0,
+      "sell": 7354,
+      "id": "de17edef-d3cb-c4af-9776-8ed0670b7004"
+    },
+    {
+      "station_id": "347317bc-a936-7fbb-32e7-2c6605d5cbbd",
+      "resource": {
+        "name": "Animal Meat",
+        "id": "f99d3260-29ec-9944-7ec0-20aaa7eb71f6"
+      },
+      "buy": 0,
+      "sell": 1389,
+      "id": "30c8c8b3-3c55-61bd-bdcf-43d597be3a4d"
+    },
+    {
+      "station_id": "347317bc-a936-7fbb-32e7-2c6605d5cbbd",
+      "resource": {
+        "name": "Coffeet",
+        "id": "69e6842e-7ce6-b331-876a-5cd81a11f2d9"
+      },
+      "buy": 0,
+      "sell": 1389,
+      "id": "44d5e190-5ecf-9500-2015-b004c28bca26"
+    },
+    {
+      "station_id": "347317bc-a936-7fbb-32e7-2c6605d5cbbd",
+      "resource": {
+        "name": "Tea",
+        "id": "957c2865-2286-84b1-738d-5917b1ac786a"
+      },
+      "buy": 0,
+      "sell": 1571,
+      "id": "75d930db-0086-eb05-5a4a-4874f2af3520"
+    },
+    {
+      "station_id": "347317bc-a936-7fbb-32e7-2c6605d5cbbd",
+      "resource": {
+        "name": "Performance Enhancers",
+        "id": "183249c3-0a72-bd47-c161-d1c0d5b3fe9e"
+      },
+      "buy": 0,
+      "sell": 7354,
+      "id": "d6845355-478a-9039-a22c-de958ea31946"
+    },
+    {
+      "station_id": "347317bc-a936-7fbb-32e7-2c6605d5cbbd",
+      "resource": {
+        "name": "Progenitor Cells",
+        "id": "18ec5334-ff33-b0cd-4c4b-7ade9461697b"
+      },
+      "buy": 0,
+      "sell": 7354,
+      "id": "27525830-0f71-a0d1-440d-f7d487d07f8e"
+    },
+    {
+      "station_id": "347317bc-a936-7fbb-32e7-2c6605d5cbbd",
+      "resource": {
+        "name": "Gold",
+        "id": "703b5da2-a67c-8b0a-a819-36fe436315ab"
+      },
+      "buy": 9340,
+      "sell": 0,
+      "id": "c861c2c5-c5c6-54a9-cd07-1a4c4d10841c"
+    },
+    {
+      "station_id": "347317bc-a936-7fbb-32e7-2c6605d5cbbd",
+      "resource": {
+        "name": "Palladium",
+        "id": "121741c7-b27c-ab60-145a-89d2a9d55d70"
+      },
+      "buy": 13191,
+      "sell": 0,
+      "id": "813bcdb2-3209-2e75-020a-a9141f273b46"
+    },
+    {
+      "station_id": "347317bc-a936-7fbb-32e7-2c6605d5cbbd",
+      "resource": {
+        "name": "Silver",
+        "id": "0002ceab-8f7a-3b47-09fb-fc29925c50e7"
+      },
+      "buy": 4642,
+      "sell": 0,
+      "id": "a4a633a2-a8e8-11e4-3670-090c3a224919"
+    },
+    {
+      "station_id": "347317bc-a936-7fbb-32e7-2c6605d5cbbd",
+      "resource": {
+        "name": "NonLethal Weapon",
+        "id": "83e577f4-6721-772e-e623-95d351fabea4"
+      },
+      "buy": 0,
+      "sell": 2106,
+      "id": "1e979ffe-3b8e-9708-25d2-d5c9dcc5f576"
+    },
+    {
+      "station_id": "347317bc-a936-7fbb-32e7-2c6605d5cbbd",
+      "resource": {
+        "name": "Reactive Armour",
+        "id": "47d2739a-dbee-b411-41cf-127ceb633b9f"
+      },
+      "buy": 0,
+      "sell": 2377,
+      "id": "f97011a7-8462-b2f7-948d-93d2191a0dd7"
+    }
+  ],
+  "Agassiz Station": [
+    {
+      "station_id": "876e8a81-eeb0-d5ba-f396-e940fc839275",
+      "resource": {
+        "name": "Consumer Tech",
+        "id": "283f8c09-acf0-15a6-e0e8-19a41a5868de"
+      },
+      "buy": 0,
+      "sell": 7369,
+      "id": "91695f22-549d-63a2-32e3-0af3346a848f"
+    },
+    {
+      "station_id": "876e8a81-eeb0-d5ba-f396-e940fc839275",
+      "resource": {
+        "name": "Animal Meat",
+        "id": "f99d3260-29ec-9944-7ec0-20aaa7eb71f6"
+      },
+      "buy": 1227,
+      "sell": 0,
+      "id": "5d6fae56-86a8-fc26-e15f-1630e6a12548"
+    },
+    {
+      "station_id": "876e8a81-eeb0-d5ba-f396-e940fc839275",
+      "resource": {
+        "name": "Coffeet",
+        "id": "69e6842e-7ce6-b331-876a-5cd81a11f2d9"
+      },
+      "buy": 1184,
+      "sell": 0,
+      "id": "815cd0ed-b76c-91e2-ad92-a8de73247fed"
+    },
+    {
+      "station_id": "876e8a81-eeb0-d5ba-f396-e940fc839275",
+      "resource": {
+        "name": "Tea",
+        "id": "957c2865-2286-84b1-738d-5917b1ac786a"
+      },
+      "buy": 1351,
+      "sell": 0,
+      "id": "e583937b-3ffe-1bb7-043d-87d6e31ef042"
+    },
+    {
+      "station_id": "876e8a81-eeb0-d5ba-f396-e940fc839275",
+      "resource": {
+        "name": "Crop Harvesters",
+        "id": "b7762415-717f-887f-7fcb-90c7c2aa48e0"
+      },
+      "buy": 0,
+      "sell": 2534,
+      "id": "873cc3ac-411c-d7dd-40df-1535ac9fac27"
+    },
+    {
+      "station_id": "876e8a81-eeb0-d5ba-f396-e940fc839275",
+      "resource": {
+        "name": "Marine Equipment",
+        "id": "2e33e3b2-8f31-2bb2-99e1-b0b3093f63af"
+      },
+      "buy": 0,
+      "sell": 4156,
+      "id": "119bf55d-e0cd-e996-a04c-e8eb8313c43e"
+    },
+    {
+      "station_id": "876e8a81-eeb0-d5ba-f396-e940fc839275",
+      "resource": {
+        "name": "Performance Enhancers",
+        "id": "183249c3-0a72-bd47-c161-d1c0d5b3fe9e"
+      },
+      "buy": 0,
+      "sell": 7538,
+      "id": "7c79bd7c-7586-57b5-4e1b-09bb65d78f0f"
+    },
+    {
+      "station_id": "876e8a81-eeb0-d5ba-f396-e940fc839275",
+      "resource": {
+        "name": "Progenitor Cells",
+        "id": "18ec5334-ff33-b0cd-4c4b-7ade9461697b"
+      },
+      "buy": 0,
+      "sell": 7524,
+      "id": "ae76620f-6c71-9988-4645-39e304df21bf"
+    },
+    {
+      "station_id": "876e8a81-eeb0-d5ba-f396-e940fc839275",
+      "resource": {
+        "name": "Land Enrichment Systems",
+        "id": "66cd744c-dcf0-af1e-afac-b4154f5ae637"
+      },
+      "buy": 0,
+      "sell": 4729,
+      "id": "bb694666-5763-b1e8-f9ba-5addbdaa140b"
+    },
+    {
+      "station_id": "876e8a81-eeb0-d5ba-f396-e940fc839275",
+      "resource": {
+        "name": "NonLethal Weapon",
+        "id": "83e577f4-6721-772e-e623-95d351fabea4"
+      },
+      "buy": 0,
+      "sell": 1775,
+      "id": "c8042a90-e0e7-d8f7-0201-5e1febdf6db6"
+    },
+    {
+      "station_id": "876e8a81-eeb0-d5ba-f396-e940fc839275",
+      "resource": {
+        "name": "Reactive Armour",
+        "id": "47d2739a-dbee-b411-41cf-127ceb633b9f"
+      },
+      "buy": 0,
+      "sell": 2248,
+      "id": "2918567f-efe0-6a0b-d4b8-d43cd44d8179"
+    }
+  ],
+  "Vian Enterprise": [
+    {
+      "station_id": "959c0a81-f297-89c5-5363-0c71557f79fe",
+      "resource": {
+        "name": "Consumer Tech",
+        "id": "283f8c09-acf0-15a6-e0e8-19a41a5868de"
+      },
+      "buy": 0,
+      "sell": 6582,
+      "id": "2520cc4a-0e02-c910-c8ba-533c6301e754"
+    },
+    {
+      "station_id": "959c0a81-f297-89c5-5363-0c71557f79fe",
+      "resource": {
+        "name": "Animal Meat",
+        "id": "f99d3260-29ec-9944-7ec0-20aaa7eb71f6"
+      },
+      "buy": 0,
+      "sell": 1291,
+      "id": "dc80f9a5-9f8f-ee20-3da5-dc697c13becd"
+    },
+    {
+      "station_id": "959c0a81-f297-89c5-5363-0c71557f79fe",
+      "resource": {
+        "name": "Coffeet",
+        "id": "69e6842e-7ce6-b331-876a-5cd81a11f2d9"
+      },
+      "buy": 0,
+      "sell": 1291,
+      "id": "2c38848e-d52e-523b-b200-929fab4afe22"
+    },
+    {
+      "station_id": "959c0a81-f297-89c5-5363-0c71557f79fe",
+      "resource": {
+        "name": "Tea",
+        "id": "957c2865-2286-84b1-738d-5917b1ac786a"
+      },
+      "buy": 0,
+      "sell": 1464,
+      "id": "072c2504-01b1-2a3d-d4ad-bbf4b55abc61"
+    },
+    {
+      "station_id": "959c0a81-f297-89c5-5363-0c71557f79fe",
+      "resource": {
+        "name": "Superconductors",
+        "id": "006d064d-c334-1a13-9bde-b49020c10a9b"
+      },
+      "buy": 0,
+      "sell": 7059,
+      "id": "f4ce96bf-436b-6373-3ff6-db109278fbd4"
+    },
+    {
+      "station_id": "959c0a81-f297-89c5-5363-0c71557f79fe",
+      "resource": {
+        "name": "Crop Harvesters",
+        "id": "b7762415-717f-887f-7fcb-90c7c2aa48e0"
+      },
+      "buy": 2032,
+      "sell": 0,
+      "id": "96f223f7-27a9-4a83-e133-ca69ed12016b"
+    },
+    {
+      "station_id": "959c0a81-f297-89c5-5363-0c71557f79fe",
+      "resource": {
+        "name": "Marine Equipment",
+        "id": "2e33e3b2-8f31-2bb2-99e1-b0b3093f63af"
+      },
+      "buy": 4011,
+      "sell": 0,
+      "id": "1f335a4e-2a19-0596-7609-2f67a8bbaf64"
+    },
+    {
+      "station_id": "959c0a81-f297-89c5-5363-0c71557f79fe",
+      "resource": {
+        "name": "Performance Enhancers",
+        "id": "183249c3-0a72-bd47-c161-d1c0d5b3fe9e"
+      },
+      "buy": 0,
+      "sell": 6582,
+      "id": "c3b5c2eb-38d1-c56e-f8e5-c6b66aad5b01"
+    },
+    {
+      "station_id": "959c0a81-f297-89c5-5363-0c71557f79fe",
+      "resource": {
+        "name": "Progenitor Cells",
+        "id": "18ec5334-ff33-b0cd-4c4b-7ade9461697b"
+      },
+      "buy": 0,
+      "sell": 6966,
+      "id": "e8a0f67f-e491-201e-3fc6-93ea9c178493"
+    },
+    {
+      "station_id": "959c0a81-f297-89c5-5363-0c71557f79fe",
+      "resource": {
+        "name": "Beryllium",
+        "id": "bf47d4b1-fead-f6d9-ad4e-0f6d9e8438f6"
+      },
+      "buy": 0,
+      "sell": 9053,
+      "id": "7d5c4447-e2ff-565a-f51f-e513e399e0c3"
+    },
+    {
+      "station_id": "959c0a81-f297-89c5-5363-0c71557f79fe",
+      "resource": {
+        "name": "Gallium",
+        "id": "e2b0c540-7fdd-953a-1e19-edccfdefb81d"
+      },
+      "buy": 0,
+      "sell": 5236,
+      "id": "24670c18-cc54-c76b-2a30-777d9151b7ad"
+    },
+    {
+      "station_id": "959c0a81-f297-89c5-5363-0c71557f79fe",
+      "resource": {
+        "name": "Gold",
+        "id": "703b5da2-a67c-8b0a-a819-36fe436315ab"
+      },
+      "buy": 0,
+      "sell": 10148,
+      "id": "625050e8-4ebc-530a-7ff5-101e4418d6bf"
+    },
+    {
+      "station_id": "959c0a81-f297-89c5-5363-0c71557f79fe",
+      "resource": {
+        "name": "Indium",
+        "id": "240497ae-caac-47a2-4b5e-2a19017a0a01"
+      },
+      "buy": 0,
+      "sell": 6106,
+      "id": "93d491f3-5115-bd2d-ada4-a8836a0fdace"
+    },
+    {
+      "station_id": "959c0a81-f297-89c5-5363-0c71557f79fe",
+      "resource": {
+        "name": "Palladium",
+        "id": "121741c7-b27c-ab60-145a-89d2a9d55d70"
+      },
+      "buy": 0,
+      "sell": 14143,
+      "id": "75b13440-13e1-1f0e-317c-33d304474ec4"
+    },
+    {
+      "station_id": "959c0a81-f297-89c5-5363-0c71557f79fe",
+      "resource": {
+        "name": "Silver",
+        "id": "0002ceab-8f7a-3b47-09fb-fc29925c50e7"
+      },
+      "buy": 0,
+      "sell": 5060,
+      "id": "71656d11-a280-f101-0122-0aeaacdc7188"
+    },
+    {
+      "station_id": "959c0a81-f297-89c5-5363-0c71557f79fe",
+      "resource": {
+        "name": "Tantalum",
+        "id": "6064d921-6cb2-9c38-8df7-b51ca1166d47"
+      },
+      "buy": 0,
+      "sell": 4485,
+      "id": "27fec260-d040-30f9-5a49-ced7c3386af7"
+    },
+    {
+      "station_id": "959c0a81-f297-89c5-5363-0c71557f79fe",
+      "resource": {
+        "name": "Uranium",
+        "id": "dfbb5c3d-8dc3-552a-3b0c-be96f8b2bcea"
+      },
+      "buy": 0,
+      "sell": 3097,
+      "id": "b5d709cf-02f9-5fb1-84df-2c253a74e1fd"
+    },
+    {
+      "station_id": "959c0a81-f297-89c5-5363-0c71557f79fe",
+      "resource": {
+        "name": "NonLethal Weapon",
+        "id": "83e577f4-6721-772e-e623-95d351fabea4"
+      },
+      "buy": 0,
+      "sell": 1876,
+      "id": "a29490bc-c582-91ad-1cac-81fcca2bc43c"
+    },
+    {
+      "station_id": "959c0a81-f297-89c5-5363-0c71557f79fe",
+      "resource": {
+        "name": "Reactive Armour",
+        "id": "47d2739a-dbee-b411-41cf-127ceb633b9f"
+      },
+      "buy": 0,
+      "sell": 2015,
+      "id": "f166d3d0-25c9-6ca4-90dd-cad9a718941e"
+    }
+  ],
+  "Kozeyev Ring": [
+    {
+      "station_id": "af44fb46-4c4b-8f5b-9017-5b52d0e0195f",
+      "resource": {
+        "name": "Consumer Tech",
+        "id": "283f8c09-acf0-15a6-e0e8-19a41a5868de"
+      },
+      "buy": 6408,
+      "sell": 0,
+      "id": "1a298c77-ec54-aabc-05cc-74a124c6112a"
+    },
+    {
+      "station_id": "af44fb46-4c4b-8f5b-9017-5b52d0e0195f",
+      "resource": {
+        "name": "Animal Meat",
+        "id": "f99d3260-29ec-9944-7ec0-20aaa7eb71f6"
+      },
+      "buy": 0,
+      "sell": 1515,
+      "id": "d02e46a0-5206-f602-576c-5c16ad81ecc3"
+    },
+    {
+      "station_id": "af44fb46-4c4b-8f5b-9017-5b52d0e0195f",
+      "resource": {
+        "name": "Coffeet",
+        "id": "69e6842e-7ce6-b331-876a-5cd81a11f2d9"
+      },
+      "buy": 0,
+      "sell": 1389,
+      "id": "4e220682-6d5b-e0e4-180d-217564e4bb2c"
+    },
+    {
+      "station_id": "af44fb46-4c4b-8f5b-9017-5b52d0e0195f",
+      "resource": {
+        "name": "Tea",
+        "id": "957c2865-2286-84b1-738d-5917b1ac786a"
+      },
+      "buy": 0,
+      "sell": 1706,
+      "id": "90a9921c-97d4-5d4a-7b91-d7f8be8ef06e"
+    },
+    {
+      "station_id": "af44fb46-4c4b-8f5b-9017-5b52d0e0195f",
+      "resource": {
+        "name": "Superconductors",
+        "id": "006d064d-c334-1a13-9bde-b49020c10a9b"
+      },
+      "buy": 0,
+      "sell": 6589,
+      "id": "161973b7-c8b6-2209-4d16-2cd17d03959e"
+    },
+    {
+      "station_id": "af44fb46-4c4b-8f5b-9017-5b52d0e0195f",
+      "resource": {
+        "name": "Performance Enhancers",
+        "id": "183249c3-0a72-bd47-c161-d1c0d5b3fe9e"
+      },
+      "buy": 6386,
+      "sell": 0,
+      "id": "a048b819-1cd6-1a9a-921b-30eb6f2cda5d"
+    },
+    {
+      "station_id": "af44fb46-4c4b-8f5b-9017-5b52d0e0195f",
+      "resource": {
+        "name": "Progenitor Cells",
+        "id": "18ec5334-ff33-b0cd-4c4b-7ade9461697b"
+      },
+      "buy": 6794,
+      "sell": 0,
+      "id": "608bb9cd-fea5-bc03-e158-1789d0dd336f"
+    },
+    {
+      "station_id": "af44fb46-4c4b-8f5b-9017-5b52d0e0195f",
+      "resource": {
+        "name": "Beryllium",
+        "id": "bf47d4b1-fead-f6d9-ad4e-0f6d9e8438f6"
+      },
+      "buy": 0,
+      "sell": 8661,
+      "id": "92687afa-5bb3-7abf-114c-586dd198b7a3"
+    },
+    {
+      "station_id": "af44fb46-4c4b-8f5b-9017-5b52d0e0195f",
+      "resource": {
+        "name": "Gallium",
+        "id": "e2b0c540-7fdd-953a-1e19-edccfdefb81d"
+      },
+      "buy": 0,
+      "sell": 5550,
+      "id": "b3b35b6f-d522-f9c3-de6c-5f1e50154131"
+    },
+    {
+      "station_id": "af44fb46-4c4b-8f5b-9017-5b52d0e0195f",
+      "resource": {
+        "name": "Gold",
+        "id": "703b5da2-a67c-8b0a-a819-36fe436315ab"
+      },
+      "buy": 0,
+      "sell": 9849,
+      "id": "7f16b163-6d80-3dcd-ba36-d83451923437"
+    },
+    {
+      "station_id": "af44fb46-4c4b-8f5b-9017-5b52d0e0195f",
+      "resource": {
+        "name": "Indium",
+        "id": "240497ae-caac-47a2-4b5e-2a19017a0a01"
+      },
+      "buy": 0,
+      "sell": 5768,
+      "id": "381e7aa5-e056-0ab1-3bc6-d6056497bdc3"
+    },
+    {
+      "station_id": "af44fb46-4c4b-8f5b-9017-5b52d0e0195f",
+      "resource": {
+        "name": "Palladium",
+        "id": "121741c7-b27c-ab60-145a-89d2a9d55d70"
+      },
+      "buy": 0,
+      "sell": 14145,
+      "id": "f776cce8-bfc4-3697-f3a4-977c424f419f"
+    },
+    {
+      "station_id": "af44fb46-4c4b-8f5b-9017-5b52d0e0195f",
+      "resource": {
+        "name": "Silver",
+        "id": "0002ceab-8f7a-3b47-09fb-fc29925c50e7"
+      },
+      "buy": 0,
+      "sell": 5382,
+      "id": "be9053ed-1243-41e1-d9b4-d5777f06734e"
+    },
+    {
+      "station_id": "af44fb46-4c4b-8f5b-9017-5b52d0e0195f",
+      "resource": {
+        "name": "Tantalum",
+        "id": "6064d921-6cb2-9c38-8df7-b51ca1166d47"
+      },
+      "buy": 0,
+      "sell": 4016,
+      "id": "0276726d-f983-27c4-f2dd-d3e633a442c4"
+    },
+    {
+      "station_id": "af44fb46-4c4b-8f5b-9017-5b52d0e0195f",
+      "resource": {
+        "name": "Uranium",
+        "id": "dfbb5c3d-8dc3-552a-3b0c-be96f8b2bcea"
+      },
+      "buy": 0,
+      "sell": 2954,
+      "id": "566d0334-b01f-2833-685e-9773a220936a"
+    },
+    {
+      "station_id": "af44fb46-4c4b-8f5b-9017-5b52d0e0195f",
+      "resource": {
+        "name": "Advanced Catalysers",
+        "id": "aa41023a-ffc3-3866-6631-5e92aad9d942"
+      },
+      "buy": 0,
+      "sell": 3197,
+      "id": "be0bcab1-b256-5cb7-11b2-5ffeb802b744"
+    },
+    {
+      "station_id": "af44fb46-4c4b-8f5b-9017-5b52d0e0195f",
+      "resource": {
+        "name": "Auto Fabricators",
+        "id": "1aaf74d3-ec01-ce91-a93b-122e925396aa"
+      },
+      "buy": 3277,
+      "sell": 0,
+      "id": "89d736cd-c002-1bef-8f85-10d5a102bf7d"
+    },
+    {
+      "station_id": "af44fb46-4c4b-8f5b-9017-5b52d0e0195f",
+      "resource": {
+        "name": "Land Enrichment Systems",
+        "id": "66cd744c-dcf0-af1e-afac-b4154f5ae637"
+      },
+      "buy": 4479,
+      "sell": 0,
+      "id": "4ad45e4b-1ad0-7f51-e22e-e6caa50585a4"
+    },
+    {
+      "station_id": "af44fb46-4c4b-8f5b-9017-5b52d0e0195f",
+      "resource": {
+        "name": "Resonating Separators",
+        "id": "759dba89-bd39-17cf-0901-2afb1c542feb"
+      },
+      "buy": 5709,
+      "sell": 0,
+      "id": "71dec628-3483-98ce-0af6-23be52a87e05"
+    },
+    {
+      "station_id": "af44fb46-4c4b-8f5b-9017-5b52d0e0195f",
+      "resource": {
+        "name": "NonLethal Weapon",
+        "id": "83e577f4-6721-772e-e623-95d351fabea4"
+      },
+      "buy": 1609,
+      "sell": 0,
+      "id": "036f145e-7556-f48e-094b-c382906a3f55"
+    },
+    {
+      "station_id": "af44fb46-4c4b-8f5b-9017-5b52d0e0195f",
+      "resource": {
+        "name": "Reactive Armour",
+        "id": "47d2739a-dbee-b411-41cf-127ceb633b9f"
+      },
+      "buy": 1823,
+      "sell": 0,
+      "id": "9c41fb5a-c7a8-ff56-71e1-baed3f2ad379"
+    }
+  ],
+  "Laplace Enterprise": [
+    {
+      "station_id": "18db9381-ae44-a1cc-7d99-fa41707b3bb3",
+      "resource": {
+        "name": "Consumer Tech",
+        "id": "283f8c09-acf0-15a6-e0e8-19a41a5868de"
+      },
+      "buy": 0,
+      "sell": 6858,
+      "id": "52414771-af2f-33d9-cd70-f4634d0e3340"
+    },
+    {
+      "station_id": "18db9381-ae44-a1cc-7d99-fa41707b3bb3",
+      "resource": {
+        "name": "Animal Meat",
+        "id": "f99d3260-29ec-9944-7ec0-20aaa7eb71f6"
+      },
+      "buy": 0,
+      "sell": 1298,
+      "id": "07926302-18f1-b8cb-f016-604addd9c3bb"
+    },
+    {
+      "station_id": "18db9381-ae44-a1cc-7d99-fa41707b3bb3",
+      "resource": {
+        "name": "Coffeet",
+        "id": "69e6842e-7ce6-b331-876a-5cd81a11f2d9"
+      },
+      "buy": 0,
+      "sell": 1385,
+      "id": "796229f5-26ab-6b05-64c9-61cfbcac34d0"
+    },
+    {
+      "station_id": "18db9381-ae44-a1cc-7d99-fa41707b3bb3",
+      "resource": {
+        "name": "Tea",
+        "id": "957c2865-2286-84b1-738d-5917b1ac786a"
+      },
+      "buy": 0,
+      "sell": 1473,
+      "id": "0295e3e3-fe3f-b7c3-8dbc-81563df2ed91"
+    },
+    {
+      "station_id": "18db9381-ae44-a1cc-7d99-fa41707b3bb3",
+      "resource": {
+        "name": "Superconductors",
+        "id": "006d064d-c334-1a13-9bde-b49020c10a9b"
+      },
+      "buy": 6544,
+      "sell": 0,
+      "id": "2e475fd5-7841-8c4b-eb4f-dc8ac008f01c"
+    },
+    {
+      "station_id": "18db9381-ae44-a1cc-7d99-fa41707b3bb3",
+      "resource": {
+        "name": "Performance Enhancers",
+        "id": "183249c3-0a72-bd47-c161-d1c0d5b3fe9e"
+      },
+      "buy": 0,
+      "sell": 6622,
+      "id": "a6c2de02-1ebc-d9dc-ccfc-38376a078879"
+    },
+    {
+      "station_id": "18db9381-ae44-a1cc-7d99-fa41707b3bb3",
+      "resource": {
+        "name": "Progenitor Cells",
+        "id": "18ec5334-ff33-b0cd-4c4b-7ade9461697b"
+      },
+      "buy": 0,
+      "sell": 6858,
+      "id": "d729cf29-74cf-03f0-7143-fddf2efad144"
+    },
+    {
+      "station_id": "18db9381-ae44-a1cc-7d99-fa41707b3bb3",
+      "resource": {
+        "name": "Beryllium",
+        "id": "bf47d4b1-fead-f6d9-ad4e-0f6d9e8438f6"
+      },
+      "buy": 8048,
+      "sell": 0,
+      "id": "a86d3109-b634-8fd5-3da6-08e6c7ca173e"
+    },
+    {
+      "station_id": "18db9381-ae44-a1cc-7d99-fa41707b3bb3",
+      "resource": {
+        "name": "Gallium",
+        "id": "e2b0c540-7fdd-953a-1e19-edccfdefb81d"
+      },
+      "buy": 4991,
+      "sell": 0,
+      "id": "279b6cff-9a77-071e-6d63-147fa6aa1eaf"
+    },
+    {
+      "station_id": "18db9381-ae44-a1cc-7d99-fa41707b3bb3",
+      "resource": {
+        "name": "Gold",
+        "id": "703b5da2-a67c-8b0a-a819-36fe436315ab"
+      },
+      "buy": 9273,
+      "sell": 0,
+      "id": "370cf799-48e2-613a-b6f9-cfbd238cc74f"
+    },
+    {
+      "station_id": "18db9381-ae44-a1cc-7d99-fa41707b3bb3",
+      "resource": {
+        "name": "Indium",
+        "id": "240497ae-caac-47a2-4b5e-2a19017a0a01"
+      },
+      "buy": 5746,
+      "sell": 0,
+      "id": "47b99e53-cd65-0af4-a55a-abafccaffc6d"
+    },
+    {
+      "station_id": "18db9381-ae44-a1cc-7d99-fa41707b3bb3",
+      "resource": {
+        "name": "Palladium",
+        "id": "121741c7-b27c-ab60-145a-89d2a9d55d70"
+      },
+      "buy": 13201,
+      "sell": 0,
+      "id": "57d263ba-ce15-6675-3cf8-1ec0c746cc89"
+    },
+    {
+      "station_id": "18db9381-ae44-a1cc-7d99-fa41707b3bb3",
+      "resource": {
+        "name": "Silver",
+        "id": "0002ceab-8f7a-3b47-09fb-fc29925c50e7"
+      },
+      "buy": 4629,
+      "sell": 0,
+      "id": "8fb015e5-2dee-d64a-5c6e-0638157eb1da"
+    },
+    {
+      "station_id": "18db9381-ae44-a1cc-7d99-fa41707b3bb3",
+      "resource": {
+        "name": "Tantalum",
+        "id": "6064d921-6cb2-9c38-8df7-b51ca1166d47"
+      },
+      "buy": 3773,
+      "sell": 0,
+      "id": "0d95c4f4-5c94-75c7-1efa-cbd34f2f1845"
+    },
+    {
+      "station_id": "18db9381-ae44-a1cc-7d99-fa41707b3bb3",
+      "resource": {
+        "name": "Uranium",
+        "id": "dfbb5c3d-8dc3-552a-3b0c-be96f8b2bcea"
+      },
+      "buy": 2490,
+      "sell": 0,
+      "id": "616f3e5f-e1a0-c3e8-dbc2-af415063ccc1"
+    },
+    {
+      "station_id": "18db9381-ae44-a1cc-7d99-fa41707b3bb3",
+      "resource": {
+        "name": "Advanced Catalysers",
+        "id": "aa41023a-ffc3-3866-6631-5e92aad9d942"
+      },
+      "buy": 0,
+      "sell": 3362,
+      "id": "f298005c-9246-fe2d-ad93-0d1719a399a4"
+    },
+    {
+      "station_id": "18db9381-ae44-a1cc-7d99-fa41707b3bb3",
+      "resource": {
+        "name": "Resonating Separators",
+        "id": "759dba89-bd39-17cf-0901-2afb1c542feb"
+      },
+      "buy": 0,
+      "sell": 5796,
+      "id": "d5b7f594-3863-901a-16af-c0d7ac9fdb5f"
+    },
+    {
+      "station_id": "18db9381-ae44-a1cc-7d99-fa41707b3bb3",
+      "resource": {
+        "name": "NonLethal Weapon",
+        "id": "83e577f4-6721-772e-e623-95d351fabea4"
+      },
+      "buy": 0,
+      "sell": 1888,
+      "id": "6c4f604c-4674-1856-0c56-d7a610b8ba64"
+    },
+    {
+      "station_id": "18db9381-ae44-a1cc-7d99-fa41707b3bb3",
+      "resource": {
+        "name": "Reactive Armour",
+        "id": "47d2739a-dbee-b411-41cf-127ceb633b9f"
+      },
+      "buy": 0,
+      "sell": 2141,
+      "id": "f7e7bec1-0121-b6a9-b2ed-e2165aad8289"
+    }
+  ],
+  "Hermaszewski Settlement": [
+    {
+      "station_id": "f8e61731-a188-9ed1-903e-1a55b635d004",
+      "resource": {
+        "name": "Consumer Tech",
+        "id": "283f8c09-acf0-15a6-e0e8-19a41a5868de"
+      },
+      "buy": 0,
+      "sell": 7347,
+      "id": "796f9867-c7aa-70f9-d7ec-6e7c9caf4b97"
+    },
+    {
+      "station_id": "f8e61731-a188-9ed1-903e-1a55b635d004",
+      "resource": {
+        "name": "Animal Meat",
+        "id": "f99d3260-29ec-9944-7ec0-20aaa7eb71f6"
+      },
+      "buy": 0,
+      "sell": 1388,
+      "id": "effd6181-6d74-daab-d596-069cb9cb590b"
+    },
+    {
+      "station_id": "f8e61731-a188-9ed1-903e-1a55b635d004",
+      "resource": {
+        "name": "Coffeet",
+        "id": "69e6842e-7ce6-b331-876a-5cd81a11f2d9"
+      },
+      "buy": 0,
+      "sell": 1388,
+      "id": "7959935f-6e34-bae3-7ddb-298411588f3c"
+    },
+    {
+      "station_id": "f8e61731-a188-9ed1-903e-1a55b635d004",
+      "resource": {
+        "name": "Tea",
+        "id": "957c2865-2286-84b1-738d-5917b1ac786a"
+      },
+      "buy": 0,
+      "sell": 1570,
+      "id": "f88d81fd-4d17-8da5-101b-7492072ab01e"
+    },
+    {
+      "station_id": "f8e61731-a188-9ed1-903e-1a55b635d004",
+      "resource": {
+        "name": "Superconductors",
+        "id": "006d064d-c334-1a13-9bde-b49020c10a9b"
+      },
+      "buy": 6556,
+      "sell": 0,
+      "id": "e2dcd2fb-8843-18d5-0f03-4c1f3373a25b"
+    },
+    {
+      "station_id": "f8e61731-a188-9ed1-903e-1a55b635d004",
+      "resource": {
+        "name": "Performance Enhancers",
+        "id": "183249c3-0a72-bd47-c161-d1c0d5b3fe9e"
+      },
+      "buy": 0,
+      "sell": 7347,
+      "id": "b341f898-92a0-0524-35cf-ba5c4a5561cb"
+    },
+    {
+      "station_id": "f8e61731-a188-9ed1-903e-1a55b635d004",
+      "resource": {
+        "name": "Progenitor Cells",
+        "id": "18ec5334-ff33-b0cd-4c4b-7ade9461697b"
+      },
+      "buy": 0,
+      "sell": 7347,
+      "id": "9bad4d3d-090a-b38c-70a4-6fdd9df36f30"
+    },
+    {
+      "station_id": "f8e61731-a188-9ed1-903e-1a55b635d004",
+      "resource": {
+        "name": "Beryllium",
+        "id": "bf47d4b1-fead-f6d9-ad4e-0f6d9e8438f6"
+      },
+      "buy": 8097,
+      "sell": 0,
+      "id": "3c3570c3-d65a-d5b1-7306-4b5e3609c29a"
+    },
+    {
+      "station_id": "f8e61731-a188-9ed1-903e-1a55b635d004",
+      "resource": {
+        "name": "Gallium",
+        "id": "e2b0c540-7fdd-953a-1e19-edccfdefb81d"
+      },
+      "buy": 5003,
+      "sell": 0,
+      "id": "c9090d67-2391-f1fe-78ec-bffb411e63b5"
+    },
+    {
+      "station_id": "f8e61731-a188-9ed1-903e-1a55b635d004",
+      "resource": {
+        "name": "Gold",
+        "id": "703b5da2-a67c-8b0a-a819-36fe436315ab"
+      },
+      "buy": 9289,
+      "sell": 0,
+      "id": "67b0c90e-548a-469c-164a-e3393e9fa0d5"
+    },
+    {
+      "station_id": "f8e61731-a188-9ed1-903e-1a55b635d004",
+      "resource": {
+        "name": "Indium",
+        "id": "240497ae-caac-47a2-4b5e-2a19017a0a01"
+      },
+      "buy": 5756,
+      "sell": 0,
+      "id": "419ce712-47c8-c782-599b-197d3a5d88f9"
+    },
+    {
+      "station_id": "f8e61731-a188-9ed1-903e-1a55b635d004",
+      "resource": {
+        "name": "Silver",
+        "id": "0002ceab-8f7a-3b47-09fb-fc29925c50e7"
+      },
+      "buy": 4637,
+      "sell": 0,
+      "id": "010ce0d7-66ab-1d55-f4c5-12b757f9e824"
+    },
+    {
+      "station_id": "f8e61731-a188-9ed1-903e-1a55b635d004",
+      "resource": {
+        "name": "Tantalum",
+        "id": "6064d921-6cb2-9c38-8df7-b51ca1166d47"
+      },
+      "buy": 3780,
+      "sell": 0,
+      "id": "afab7d57-d5b6-baaf-4bfd-081278a4b0b0"
+    },
+    {
+      "station_id": "f8e61731-a188-9ed1-903e-1a55b635d004",
+      "resource": {
+        "name": "Uranium",
+        "id": "dfbb5c3d-8dc3-552a-3b0c-be96f8b2bcea"
+      },
+      "buy": 2495,
+      "sell": 0,
+      "id": "2cd051fc-2e9c-c596-f746-9a6ff9b90dfa"
+    },
+    {
+      "station_id": "f8e61731-a188-9ed1-903e-1a55b635d004",
+      "resource": {
+        "name": "Advanced Catalysers",
+        "id": "aa41023a-ffc3-3866-6631-5e92aad9d942"
+      },
+      "buy": 0,
+      "sell": 3368,
+      "id": "7d6a19a5-4567-0350-5f78-d6795841ecef"
+    },
+    {
+      "station_id": "f8e61731-a188-9ed1-903e-1a55b635d004",
+      "resource": {
+        "name": "Resonating Separators",
+        "id": "759dba89-bd39-17cf-0901-2afb1c542feb"
+      },
+      "buy": 0,
+      "sell": 6681,
+      "id": "40f9422d-cf36-df68-a7b1-b1848cda5282"
+    },
+    {
+      "station_id": "f8e61731-a188-9ed1-903e-1a55b635d004",
+      "resource": {
+        "name": "NonLethal Weapon",
+        "id": "83e577f4-6721-772e-e623-95d351fabea4"
+      },
+      "buy": 0,
+      "sell": 2105,
+      "id": "f1460113-ea8b-ca05-6cac-f17cc92d01c5"
+    },
+    {
+      "station_id": "f8e61731-a188-9ed1-903e-1a55b635d004",
+      "resource": {
+        "name": "Reactive Armour",
+        "id": "47d2739a-dbee-b411-41cf-127ceb633b9f"
+      },
+      "buy": 0,
+      "sell": 2375,
+      "id": "3f3f8982-b342-3830-75f1-a303fdbc9ba0"
+    }
+  ]
+}

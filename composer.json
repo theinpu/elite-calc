@@ -1,0 +1,21 @@
+{
+  "name": "bincode/elite",
+  "description": "elite trade book",
+  "version": "0.1",
+  "authors": [
+    {
+      "name": "inpu",
+      "email": "theinpu@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">= 5.3",
+    "bc/cmf": "*",
+    "bc/mongo": "*"
+  },
+  "autoload": {
+    "psr-0": {
+      "elite": "."
+    }
+  }
+}

@@ -1,0 +1,875 @@
+[
+  {
+    "system": "Delta Phoenicis",
+    "x": "53.9062",
+    "y": "-130.688",
+    "z": "14.6562",
+    "starport": "Trading Post",
+    "item": "Delta Phoenicis Palms",
+    "buy": "412.00"
+  },
+  {
+    "system": "Eranin",
+    "x": "-22.8438",
+    "y": "36.5312",
+    "z": "-1.1875",
+    "starport": "Azeban City",
+    "item": "Eranin Whiskey",
+    "buy": "1620.00"
+  },
+  {
+    "system": "Aerial",
+    "x": "100.75",
+    "y": "-102.625",
+    "z": "8.40625",
+    "starport": "Andrade Legacy",
+    "item": "Edan Apples of Aerial",
+    "buy": "621.00"
+  },
+  {
+    "system": "Baltah'Sine",
+    "x": "85.1562",
+    "y": "-56.3125",
+    "z": "40.3438",
+    "starport": "Baltha'sine Station",
+    "item": "Baltha'sine Vacuum Krill",
+    "buy": "825.00"
+  },
+  {
+    "system": "Coquim",
+    "x": "20.75",
+    "y": "-82.25",
+    "z": "33.5938",
+    "starport": "Hirayama Installation",
+    "item": "Coquim Spongiform Victuals",
+    "buy": "255.00"
+  },
+  {
+    "system": "Goman",
+    "x": "151.875",
+    "y": "-173.781",
+    "z": "25.2812",
+    "starport": "Gustav Sporer Port",
+    "item": "Goman Yaupon Coffee",
+    "buy": "1451.00"
+  },
+  {
+    "system": "Holva",
+    "x": "58.6875",
+    "y": "-170.969",
+    "z": "-41.9688",
+    "starport": "Kreutz Orbital",
+    "item": "Holva Duelling Blades",
+    "buy": "6518.00"
+  },
+  {
+    "system": "Irukama",
+    "x": "140.719",
+    "y": "-96.9688",
+    "z": "67.7812",
+    "starport": "Blaauw City",
+    "item": "Giant Irukama Snails",
+    "buy": "1810.00"
+  },
+  {
+    "system": "Jaroua",
+    "x": "157.531",
+    "y": "-110.531",
+    "z": "28.25",
+    "starport": "Mccool City",
+    "item": "Jaroua Rice",
+    "buy": "385.00"
+  },
+  {
+    "system": "Kamitra",
+    "x": "5.53125",
+    "y": "-183.406",
+    "z": "63.8438",
+    "starport": "Hammel Terminal",
+    "item": "Kamitra Cigars",
+    "buy": "6216.00"
+  },
+  {
+    "system": "Karsuki Ti",
+    "x": "134.031",
+    "y": "-163.594",
+    "z": "71.0625",
+    "starport": "West Market",
+    "item": "Karsuki Locusts",
+    "buy": "915.00"
+  },
+  {
+    "system": "Njangari",
+    "x": "8.875",
+    "y": "-205.438",
+    "z": "64.375",
+    "starport": "Lee Hub",
+    "item": "Njangari Saddles",
+    "buy": "650.00"
+  },
+  {
+    "system": "Phiagre",
+    "x": "44.2812",
+    "y": "-82.9688",
+    "z": "52.5",
+    "starport": "Greeboski's Outpost",
+    "item": "Giant Verrix",
+    "buy": "6552.00"
+  },
+  {
+    "system": "Rapa Bao",
+    "x": "94.1562",
+    "y": "-167.375",
+    "z": "-23.1875",
+    "starport": "Flagg Gateway",
+    "item": "Rapa Bao Snake Skins",
+    "buy": "550.00"
+  },
+  {
+    "system": "Utgaroar",
+    "x": "-0.15625",
+    "y": "-102.75",
+    "z": "-5.5625",
+    "starport": "Fort Klarix",
+    "item": "Utgaroar Millennial Eggs",
+    "buy": "1795.00"
+  },
+  {
+    "system": "Wuthielo Ku",
+    "x": "68.3125",
+    "y": "-190.031",
+    "z": "12.375",
+    "starport": "Tarter Dock",
+    "item": "Wuthielo Ku Froth",
+    "buy": "420.00"
+  },
+  {
+    "system": "Yaso Kondi",
+    "x": "4.9375",
+    "y": "-175.906",
+    "z": "-0.90625",
+    "starport": "Wheeler Market",
+    "item": "Yaso Kondi Leaf",
+    "buy": "6060.00"
+  },
+  {
+    "system": "39 Tauri",
+    "x": "-7.3125",
+    "y": "-20.2812",
+    "z": "-50.9062",
+    "starport": "Porta",
+    "item": "Tauri Chimes",
+    "buy": "938.00"
+  },
+  {
+    "system": "Aegaeon",
+    "x": "46.9062",
+    "y": "23.625",
+    "z": "-59.75",
+    "starport": "Schweikart Station",
+    "item": "Chateau De Aegaeon",
+    "buy": "1283.00"
+  },
+  {
+    "system": "Alpha Centauri",
+    "x": "3.03125",
+    "y": "-0.09375",
+    "z": "3.15625",
+    "starport": "Hutton Oribtal",
+    "item": "Centauri Mega Gin",
+    "buy": "3319.00"
+  },
+  {
+    "system": "Altair",
+    "x": "-12.3125",
+    "y": "-2.75",
+    "z": "11",
+    "starport": "Solo Orbiter",
+    "item": "Altairian Skin",
+    "buy": "758.00"
+  },
+  {
+    "system": "Alya",
+    "x": "-77.2812",
+    "y": "-57.4375",
+    "z": "30.5312",
+    "starport": "Malaspina Gateway",
+    "item": "Alya Body Soup",
+    "buy": "454.00"
+  },
+  {
+    "system": "Anduliga",
+    "x": "124.625",
+    "y": "2.5",
+    "z": "61.25",
+    "starport": "Celsius Estate",
+    "item": "Anduliga Fire Works",
+    "buy": "891.00"
+  },
+  {
+    "system": "Any Na",
+    "x": "125.656",
+    "y": "-1.71875",
+    "z": "14.0938",
+    "starport": "Libby Orbital",
+    "item": "Any Na Coffee",
+    "buy": "1820.00"
+  },
+  {
+    "system": "Arouca",
+    "x": "104.969",
+    "y": "-6.53125",
+    "z": "-4.40625",
+    "starport": "Shipton Orbital",
+    "item": "Arouca Conventula Sweets",
+    "buy": "1203.00"
+  },
+  {
+    "system": "AZ Cancri",
+    "x": "19.6562",
+    "y": "26.8438",
+    "z": "-38.0938",
+    "starport": "Fisher Station",
+    "item": "Az Cancri Formula 42",
+    "buy": "6442.00"
+  },
+  {
+    "system": "Banki",
+    "x": "49.5312",
+    "y": "15.75",
+    "z": "-91.7188",
+    "starport": "Parsons Vista",
+    "item": "Banki Amphibious Leather",
+    "buy": "634.00"
+  },
+  {
+    "system": "Bast",
+    "x": "-36.4688",
+    "y": "16.1562",
+    "z": "-34.9375",
+    "starport": "White Hart Lane",
+    "item": "Bast Snake Gin",
+    "buy": "1089.00"
+  },
+  {
+    "system": "Belalans",
+    "x": "81.625",
+    "y": "-94.875",
+    "z": "-58.5625",
+    "starport": "Boscovich Ring",
+    "item": "Belalans Ray Leather",
+    "buy": "364.00"
+  },
+  {
+    "system": "Borasetani",
+    "x": "0.21875",
+    "y": "117.75",
+    "z": "-18.0312",
+    "starport": "Katzenstien Terminal",
+    "item": "Borasetani Pathogenetics",
+    "buy": "8269.00"
+  },
+  {
+    "system": "CD-75 661",
+    "x": "67.875",
+    "y": "-21.5",
+    "z": "51.1562",
+    "starport": "Kirk Dock",
+    "item": "CD-75 Kitten Brand Coffee",
+    "buy": "2373.00"
+  },
+  {
+    "system": "Cherbones",
+    "x": "5.1875",
+    "y": "84.5312",
+    "z": "-16.75",
+    "starport": "Chalker Landing",
+    "item": "Cherbones Bloodystals",
+    "buy": "12550.00"
+  },
+  {
+    "system": "Chi Eridani",
+    "x": "26.2812",
+    "y": "-51.75",
+    "z": "4.625",
+    "starport": "Steve Masters station",
+    "item": "Chi Eridani Marine Paste",
+    "buy": "790.00"
+  },
+  {
+    "system": "Damna",
+    "x": "-40.5312",
+    "y": "4.375",
+    "z": "-124.25",
+    "starport": "Nemere Market",
+    "item": "Damna Carapaces",
+    "buy": "315.00"
+  },
+  {
+    "system": "Deuringas",
+    "x": "137.312",
+    "y": "3.84375",
+    "z": "-35.9062",
+    "starport": "Shukor Hub",
+    "item": "Deuringas Truffles",
+    "buy": "1892.00"
+  },
+  {
+    "system": "Diso",
+    "x": "72.1562",
+    "y": "48.75",
+    "z": "70.75",
+    "starport": "Shifnalport",
+    "item": "Diso Ma Corn",
+    "buy": "335.00"
+  },
+  {
+    "system": "Eleu",
+    "x": "-29.6562",
+    "y": "32.6875",
+    "z": "104.844",
+    "starport": "Finney Dock",
+    "item": "Eleu Thermals",
+    "buy": "863.00"
+  },
+  {
+    "system": "Epsilon Indi",
+    "x": "3.125",
+    "y": "-8.875",
+    "z": "7.125",
+    "starport": "Mansfield Orbiter",
+    "item": "Indi Bourbon ",
+    "buy": "1288.00"
+  },
+  {
+    "system": "Eshu",
+    "x": "120.781",
+    "y": "-247.188",
+    "z": "-16.4375",
+    "starport": "Shajn Terminal",
+    "item": "Eshu Umbrellas",
+    "buy": "2050.00"
+  },
+  {
+    "system": "Esuseku",
+    "x": "-107.875",
+    "y": "29.5625",
+    "z": "-20.9375",
+    "starport": "Savinykh Orbital",
+    "item": "Esuseku Caviar",
+    "buy": "2450.00"
+  },
+  {
+    "system": "Ethgreze",
+    "x": "-30.0312",
+    "y": "72.3438",
+    "z": "-23.8125",
+    "starport": "Bloch Station",
+    "item": "Ethgreze Tea Buds",
+    "buy": "3308.00"
+  },
+  {
+    "system": "Fujin",
+    "x": "-6.03125",
+    "y": "-30.375",
+    "z": "-59.0312",
+    "starport": "Futen Starport",
+    "item": "Fujin Tea",
+    "buy": "1003.00"
+  },
+  {
+    "system": "Geawen",
+    "x": "22.5",
+    "y": "23.7812",
+    "z": "171.062",
+    "starport": "Obruchev Legacy",
+    "item": "Geawen Dance Dust",
+    "buy": "1022.00"
+  },
+  {
+    "system": "Geras",
+    "x": "-7.03125",
+    "y": "-12.875",
+    "z": "-56.375",
+    "starport": "Yurchikhin Port",
+    "item": "Gerasian Gueuze Beer",
+    "buy": "456.00"
+  },
+  {
+    "system": "Haiden",
+    "x": "-142.031",
+    "y": "-13.3438",
+    "z": "-43.9062",
+    "starport": "Searfoss Enterprise",
+    "item": "Haidne Black Brew",
+    "buy": "1347.00"
+  },
+  {
+    "system": "Havasupai",
+    "x": "-88.75",
+    "y": "-76.75",
+    "z": "-39.625",
+    "starport": "Lovelace Port",
+    "item": "Havasupai Dream Catcher",
+    "buy": "9636.00"
+  },
+  {
+    "system": "Hecate",
+    "x": "-56",
+    "y": "-25.125",
+    "z": "-44.2812",
+    "starport": "RJH1972",
+    "item": "Live Hecate Sea Worms",
+    "buy": "1190.00"
+  },
+  {
+    "system": "Heike",
+    "x": "-76.9688",
+    "y": "71.9062",
+    "z": "69.1875",
+    "starport": "Brunel City",
+    "item": "Ceremonial Heike Tea",
+    "buy": "1920.00"
+  },
+  {
+    "system": "Helvetitj",
+    "x": "-23.1875",
+    "y": "80.0312",
+    "z": "61.8438",
+    "starport": "Friend Orbital",
+    "item": "Helvetitj Pearls",
+    "buy": "3620.00"
+  },
+  {
+    "system": "HIP 10175",
+    "x": "-45.7812",
+    "y": "-93.5",
+    "z": "-83.9062",
+    "starport": "Stefanyshyn-Piper Station",
+    "item": "HIP 10175 Bush Meat",
+    "buy": "2105.00"
+  },
+  {
+    "system": "HIP 41181",
+    "x": "-8.15625",
+    "y": "74.8125",
+    "z": "-105.125",
+    "starport": "Andersson Station",
+    "item": "HIP Proto-Squid",
+    "buy": "1488.00"
+  },
+  {
+    "system": "HIP 59533",
+    "x": "122.969",
+    "y": "-9.0625",
+    "z": "69",
+    "starport": "Burnham Beacon",
+    "item": "Burnham Bile Distillate",
+    "buy": "806.00"
+  },
+  {
+    "system": "HR 7221",
+    "x": "58.5312",
+    "y": "-55.8125",
+    "z": "91.25",
+    "starport": "Veron City",
+    "item": "HR 7221 Wheat",
+    "buy": "415.00"
+  },
+  {
+    "system": "Jaradharre",
+    "x": "39.5312",
+    "y": "21.2812",
+    "z": "56.625",
+    "starport": "Gohar Station",
+    "item": "Jaradharre Puzzle Box",
+    "buy": "12706.00"
+  },
+  {
+    "system": "Kachirigin",
+    "x": "-105.375",
+    "y": "-73.3438",
+    "z": "27.75",
+    "starport": "Nowak Orbital",
+    "item": "Kachirigin Filter Leeches",
+    "buy": "473.00"
+  },
+  {
+    "system": "Kamorin",
+    "x": "-123.875",
+    "y": "-81.5938",
+    "z": "45.1875",
+    "starport": "Godwin Vision",
+    "item": "Kamorin Historic Weapons",
+    "buy": "2678.00"
+  },
+  {
+    "system": "Kappa Fornacis",
+    "x": "12.4688",
+    "y": "-66.7188",
+    "z": "-22.9062",
+    "starport": "Harvestport",
+    "item": "Onion Head",
+    "buy": "773.00"
+  },
+  {
+    "system": "Karetii",
+    "x": "-125.594",
+    "y": "44.0312",
+    "z": "78.4062",
+    "starport": "Sinclair Platform",
+    "item": "Karetii Couture",
+    "buy": "5225.00"
+  },
+  {
+    "system": "Kinago",
+    "x": "-67.4062",
+    "y": "-7.40625",
+    "z": "150.062",
+    "starport": "Fozard Ring",
+    "item": "Kinago Violins",
+    "buy": "7279.00"
+  },
+  {
+    "system": "Kongga",
+    "x": "-104.156",
+    "y": "82.7188",
+    "z": "-32.375",
+    "starport": "Laplace Ring",
+    "item": "Kongga Ale",
+    "buy": "595.00"
+  },
+  {
+    "system": "Korro Kung",
+    "x": "81.0312",
+    "y": "52.8438",
+    "z": "31.5",
+    "starport": "Lonchakov Orbital",
+    "item": "Koro Kung Pellets",
+    "buy": "220.00"
+  },
+  {
+    "system": "Lave",
+    "x": "75.75",
+    "y": "48.75",
+    "z": "70.75",
+    "starport": "Lave Station",
+    "item": "Lavian Brandy",
+    "buy": "3543.00"
+  },
+  {
+    "system": "Leesti",
+    "x": "72.75",
+    "y": "48.75",
+    "z": "68.25",
+    "starport": "George Lucas",
+    "item": "Leestian Evil Juice",
+    "buy": "457.00"
+  },
+  {
+    "system": "LFT 1421",
+    "x": "-45.4688",
+    "y": "18.5625",
+    "z": "12.5938",
+    "starport": "Ehrlich Orbital",
+    "item": "Void Extract Coffee",
+    "buy": "2357.00"
+  },
+  {
+    "system": "Mechucos",
+    "x": "67.0312",
+    "y": "39.5938",
+    "z": "-70.0938",
+    "starport": "Brandenstein Port",
+    "item": "Mechucos High Tea",
+    "buy": "1345.00"
+  },
+  {
+    "system": "Medb",
+    "x": "12.7812",
+    "y": "4.8125",
+    "z": "39.3438",
+    "starport": "Vela dock",
+    "item": "Medb starlube",
+    "buy": "416.00"
+  },
+  {
+    "system": "Mokojing",
+    "x": "73.4375",
+    "y": "58.3438",
+    "z": "-0.21875",
+    "starport": "Noli Terminal",
+    "item": "Mokojing Beast Feast",
+    "buy": "2681.00"
+  },
+  {
+    "system": "Momus Reach",
+    "x": "-34.9375",
+    "y": "-44.1562",
+    "z": "-77.3438",
+    "starport": "Tartarus Point",
+    "item": "Momus Bog Spaniel",
+    "buy": "1836.00"
+  },
+  {
+    "system": "Mukusubii",
+    "x": "-147.469",
+    "y": "-64.125",
+    "z": "46.0938",
+    "starport": "Ledyard Dock",
+    "item": "Mukusubii Chitin-os",
+    "buy": "661.00"
+  },
+  {
+    "system": "Mulachi",
+    "x": "6.25",
+    "y": "-5.78125",
+    "z": "35.9375",
+    "starport": "Clark Terminal",
+    "item": "Mulachi Giant Fungus",
+    "buy": "86.00"
+  },
+  {
+    "system": "Neritus",
+    "x": "75.4375",
+    "y": "2.625",
+    "z": "-30.875",
+    "starport": "Neritus Berries",
+    "item": "Neritus Berries",
+    "buy": "850.00"
+  },
+  {
+    "system": "Ngadandari",
+    "x": "62.75",
+    "y": "-74.1875",
+    "z": "109.5",
+    "starport": "Consolmagno Horizons",
+    "item": "Ngandandari Fire Opals",
+    "buy": "16028.00"
+  },
+  {
+    "system": "Nguna",
+    "x": "-122.781",
+    "y": "-102.531",
+    "z": "-22.5625",
+    "starport": "Biggle Hub",
+    "item": "Nguna Modern Antiques",
+    "buy": "930.00"
+  },
+  {
+    "system": "Ochoeng",
+    "x": "-139.062",
+    "y": "-2.3125",
+    "z": "-6.65625",
+    "starport": "Roddenberry Gateway",
+    "item": "Ochoeng Chillies",
+    "buy": "998.00"
+  },
+  {
+    "system": "Orrere",
+    "x": "68.8438",
+    "y": "48.75",
+    "z": "76.75",
+    "starport": "Sharon Lee Free Market",
+    "item": "Orrerian Vicious Brew",
+    "buy": "630.00"
+  },
+  {
+    "system": "Rusani",
+    "x": "-64.75",
+    "y": "57.2188",
+    "z": "-82.625",
+    "starport": "Fernandes Market",
+    "item": "Rusani Old Smokey",
+    "buy": "5810.00"
+  },
+  {
+    "system": "Sanuma",
+    "x": "153.438",
+    "y": "61.4375",
+    "z": "79.0312",
+    "starport": "Dunyach Gateway",
+    "item": "Sanuma Decorative Meat",
+    "buy": "860.00"
+  },
+  {
+    "system": "Tanmark",
+    "x": "1.6875",
+    "y": "-77.875",
+    "z": "-30.0938",
+    "starport": "Cassie-L-Peia",
+    "item": "Tanmark Tranquil Tea",
+    "buy": "1814.00"
+  },
+  {
+    "system": "Tarach Tor",
+    "x": "-13.125",
+    "y": "-81",
+    "z": "-20.2812",
+    "starport": "Tranquillity",
+    "item": "Tarach Spice",
+    "buy": "1056.00"
+  },
+  {
+    "system": "Thrutis",
+    "x": "-90.6875",
+    "y": "8.125",
+    "z": "-79.5312",
+    "starport": "Kingsbury Dock",
+    "item": "Thrutis Cream",
+    "buy": "925.00"
+  },
+  {
+    "system": "Tiolce",
+    "x": "10.5",
+    "y": "-34.7812",
+    "z": "25.0625",
+    "starport": "Gordon Terminal",
+    "item": "Tiolce Waste 2 Paste",
+    "buy": "1153.00"
+  },
+  {
+    "system": "Toxandji",
+    "x": "155.094",
+    "y": "-12.4062",
+    "z": "61.0625",
+    "starport": "Tsunenaga Orbital",
+    "item": "Toxandji Virocide",
+    "buy": "539.00"
+  },
+  {
+    "system": "Uszaa",
+    "x": "68.8438",
+    "y": "48.75",
+    "z": "74.75",
+    "starport": "Guest Installation",
+    "item": "Uszaian Tree Grub",
+    "buy": "965.00"
+  },
+  {
+    "system": "Uzumoku",
+    "x": "-95.2188",
+    "y": "9.875",
+    "z": "-74.125",
+    "starport": "Sevrdup Ring",
+    "item": "Uzumoku Low-G Wings",
+    "buy": "8496.00"
+  },
+  {
+    "system": "Vanayequi",
+    "x": "-88.5",
+    "y": "-12.3125",
+    "z": "98.8438",
+    "starport": "Clauss Hub",
+    "item": "Vanayequi Ceratomorpha Fur",
+    "buy": "615.00"
+  },
+  {
+    "system": "Vega",
+    "x": "-21.9062",
+    "y": "8.125",
+    "z": "9",
+    "starport": "Taylor City",
+    "item": "Vega Slimweed",
+    "buy": "2398.00"
+  },
+  {
+    "system": "Vidavanta",
+    "x": "-50.9375",
+    "y": "90.2188",
+    "z": "65.8125",
+    "starport": "Lee Mines",
+    "item": "Vidavantian Lace",
+    "buy": "6771.00"
+  },
+  {
+    "system": "Volkhab",
+    "x": "36.5312",
+    "y": "100.062",
+    "z": "-135.719",
+    "starport": "Vernadsky Dock",
+    "item": "Volkhab Bee Drones",
+    "buy": "3262.00"
+  },
+  {
+    "system": "Wheemete",
+    "x": "145.125",
+    "y": "-140.062",
+    "z": "131.969",
+    "starport": "Wheat Cakes",
+    "item": "Wheemete Wheat Cakes",
+    "buy": "262.00"
+  },
+  {
+    "system": "Witchhaul",
+    "x": "-13.25",
+    "y": "-52.0625",
+    "z": "-65.875",
+    "starport": "Hornby Terminal",
+    "item": "Witchhaul Kobe Beef ",
+    "buy": "4520.00"
+  },
+  {
+    "system": "Wolf 1301",
+    "x": "-15.4375",
+    "y": "-34.6875",
+    "z": "-79.4062",
+    "starport": "Saunders's Dive",
+    "item": "Wolf Fesh",
+    "buy": "712.00"
+  },
+  {
+    "system": "Xihe",
+    "x": "-19.8125",
+    "y": "-35.375",
+    "z": "34",
+    "starport": "Zhen Dock",
+    "item": "Xihe Biomorphic Companions",
+    "buy": "4482.00"
+  },
+  {
+    "system": "Zaonce",
+    "x": "80.75",
+    "y": "48.75",
+    "z": "69.25",
+    "starport": "Ridley Scott",
+    "item": "Leathery Eggs",
+    "buy": "24590.00"
+  },
+  {
+    "system": "Zeessze",
+    "x": "-19.8125",
+    "y": "-3.25",
+    "z": "-14.2812",
+    "starport": "Nicollier Hanger",
+    "item": "Zeessze Ant Grub Glue",
+    "buy": "380.00"
+  },
+  {
+    "system": "Alacarakmo",
+    "x": "-32.4062",
+    "y": "169.531",
+    "z": "-49.4375",
+    "starport": "Weyl Gateway",
+    "item": "Alacarakmo Skin Art",
+    "buy": "1421.00"
+  },
+  {
+    "system": "Shinrarta Dezhra",
+    "x": "55.72",
+    "y": "17.59",
+    "z": "27.16",
+    "starport": "Jameson Memorial",
+    "item": "The Waters of Shintara",
+    "buy": "7421.00"
+  },
+  {
+    "system": "George Pantazis",
+    "x": "-12.09",
+    "y": "-16",
+    "z": "-14.22",
+    "starport": "Zakam Platform",
+    "item": "Pantaa Prayer Sticks",
+    "buy": "1827.00"
+  }
+]
